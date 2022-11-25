@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Change Code for Commit");
+            Console.WriteLine("Change Code for Commit 1");
             Console.ReadLine();
         }
     }
